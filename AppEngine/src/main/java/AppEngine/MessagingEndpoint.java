@@ -14,6 +14,7 @@ import javax.inject.Named;
 
 import static AppEngine.OfyService.ofy;
 
+
 /**
  * An endpoint to send messages to devices registered with the backend
  *
