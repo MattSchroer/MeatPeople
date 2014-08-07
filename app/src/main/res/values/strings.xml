@@ -4,6 +4,7 @@
     <string name="app_name">MeatPeople</string>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_main_page">MeatPeople</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_login">Login</string>
     <string name="title_activity_user_details">UserDetailsActivity</string>
@@ -43,5 +44,8 @@
         <item>@string/places_park</item>
         <item>@string/places_aquarium</item>
     </string-array>
+    <string name="title_activity_event_details">EventDetails</string>
+    <string name="dummy_event_name">Event Name</string>
+    <string name="dummy_event_type">Event Type</string>
 
 </resources>

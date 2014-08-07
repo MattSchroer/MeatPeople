@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.meatpeople.meatpeople" >
 
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="19" />
+
     <application
         android:name=".MeatPeopleApplication"
         android:allowBackup="true"
@@ -51,6 +55,18 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main" >
+            android:name=".EventDetails"
+            android:label="@string/title_activity_event_details"
+            android:parentActivityName=".MainPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.meatpeople.meatpeople.MainPage" />
+            android:name=".EventDetails"
+            android:label="@string/title_activity_event_details"
+            android:parentActivityName=".MainPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.meatpeople.meatpeople.MainPage" />
         </activity>
     </application>
 

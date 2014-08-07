@@ -1,0 +1,9 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:label="@string/title_activity_main_page"
+    android:theme="@style/Theme.AppCompat.Light"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.meatpeople.meatpeople.MainPage"
+    tools:ignore="MergeRootFrame" />
