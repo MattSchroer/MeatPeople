@@ -5,6 +5,43 @@
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_my">MyActivity</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+    <string name="app_id">668927893188791</string>
     <string name="action_settings">Settings</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="login_intro">Check out your Facebook profile by logging in with the button below!</string>
+    <string name="location">Location</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="relationship">Relationship</string>
+    <string name="title_activity_event_list">EventList</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="places_bar">bar</string>
+    <string name="places_cafe">cafe</string>
+    <string name="places_food">food</string>
+    <string name="places_hospital">hospital</string>
+    <string name="places_museum">museum</string>
+    <string name="places_restaurant">restaurant</string>
+    <string name="places_shopping_mall">shopping_mall</string>
+    <string name="places_zoo">zoo</string>
+    <string name="places_park">park</string>
+    <string name="places_aquarium">aquarium</string>
+
+    <string-array name="places-types">
+        <item>@string/places_bar</item>
+        <item>@string/places_cafe</item>
+        <item>@string/places_food</item>
+        <item>@string/places_hospital</item>
+        <item>@string/places_museum</item>
+        <item>@string/places_restaurant</item>
+        <item>@string/places_shopping_mall</item>
+        <item>@string/places_zoo</item>
+        <item>@string/places_park</item>
+        <item>@string/places_aquarium</item>
+    </string-array>
 
 </resources>

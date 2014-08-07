@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gradle-wrapper1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/facebook-android-sdk-3.16/gradle/gradle/wrapper/gradle-wrapper.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
